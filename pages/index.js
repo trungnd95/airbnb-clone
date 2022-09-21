@@ -4,6 +4,7 @@ import Banner from "../components/Banner";
 import SmallCard from "../components/SmallCard";
 import MediumCard from "../components/MediumCard";
 import LargeCard from "../components/LargeCard";
+import Footer from "../components/Footer";
 import { exploreNearbyData } from "../data/exploreNearby";
 import { cardsData } from "../data/cards";
 
@@ -60,6 +61,8 @@ export default function Home({ exploreNearbyData, cardsData }) {
           />
         </section>
       </main>
+
+      <Footer />
     </div>
   )
 }
