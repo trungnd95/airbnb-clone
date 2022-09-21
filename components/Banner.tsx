@@ -7,7 +7,7 @@ function Banner() {
         <Image src="https://links.papareact.com/0fm" layout="fill" objectFit="cover" alt="Banner" />
         <div className="absolute top-1/2 text-center w-full">
             <p className="text-sm sm:text-lg text-gray-700">Not sure where to go? Perfect.</p>
-            <button className="text-md lg:text-lg text-purple-500 bg-white px-5 py-3 shadow-sm rounded-full mt-2 cursor-pointer hover:shadow-lg active:scale-125 transition-all duration-150 font-bold ">I'm flexible</button>
+            <button className="text-md lg:text-lg text-purple-500 bg-white px-5 py-3 shadow-sm rounded-full mt-2 cursor-pointer hover:shadow-lg active:scale-125 transition-all duration-150 font-bold ">Im flexible</button>
         </div>
     </div>
   )
